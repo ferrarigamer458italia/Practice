@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(59, 58, 58);
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav li{
+    display: inline;
+    float: right;
+    padding: 10px;
+    margin: 20px 0px 0px 0px;
+    font-size: large;
+    color: aliceblue;
+}
+.google img{
+    display: inline;
+    float: left ;
+}
+.heading{
+    color: aliceblue;
+    margin: 300px 10px;
+}
+.Assassin{
+    float: right;
+    margin: -500px 100px;
+    border-top: 2px solid gray;
+    border-right: hidden;
+    border-left: 2px solid gray;
+    border-bottom: 2px solid gray;
+}   
