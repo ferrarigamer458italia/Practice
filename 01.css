@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    max-width: 100px;
+    min-width: 50px;
+    max-height: 100px;
+    min-height: 50px;
+    background-color: cyan;
+    text-align: center;
+    margin: auto;
+    padding: 20px 50px 40px 20px;
+    margin: 20% 50%;
+}
+.button:hover{
+    height: 100px;
+    width: 100px;
+    border-top: hidden;
+    border-right: 5px solid gray;
+    border-left: hidden;
+    border-bottom: 5px solid gray;
+    border-color: gray;
+}
+.button:hover{
+    padding: 40px 10px;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
